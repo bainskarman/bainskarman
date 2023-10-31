@@ -1,0 +1,13 @@
+abcs 
+dada
+ad
+ad
+a
+da
+d
+a
+da
+d
+ad
+a
+d
