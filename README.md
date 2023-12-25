@@ -82,7 +82,7 @@ Awards: Dean’s Honour List 2023
 
 ### LINKS
 
-- [LinkedIn](https://www.linkedin.com/bainskarman)
+- [LinkedIn](https://www.linkedin.com/in/bainskarman)
 - [GitHub Projects](https://github.com/bainskarman/projects)
 - [LeetCode](https://leetcode.com/bains12karman/)
 - [Instagram](https://www.instagram.com/bains_karman)
