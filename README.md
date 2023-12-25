@@ -24,13 +24,8 @@
 ### EDUCATION
 
 **Post Graduation: Artificial Intelligence and Machine Learning**  
-*Lambton College, ON – (3.5/4.0 GPA)*  
-*Jan 2023- Sep 2024*  
-Awards: Dean’s Honour List 2023  
 
 **Bachelor of Technology: Electronics and Communication Engineering**  
-*Chandigarh Group of Colleges, Mohali, IN - (3.0/4.0 GPA)*  
-*Jun 2017- Sep 2021*  
 
 ---
 
