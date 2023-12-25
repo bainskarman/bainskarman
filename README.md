@@ -28,26 +28,9 @@
 **Bachelor of Technology: Electronics and Communication Engineering**  
 
 ---
-
-### TECHNICAL SKILLS
-
-- Data Visualization and Reporting (Power BI, Tableau, Matplotlib, Seaborn, Plotly)
-- Python (Pandas, NumPy, BS4, NLP)
-- Mathematics and Statistics
-- SQL and Database Management (MySQL, MS SQL Server)
-- Deep Learning (Keras, TensorFlow)
-- Exploratory Data Analysis (EDA) and Data Preprocessing
-- Computer Vision (PIL, CV2)
-- Machine Learning (Sklearn, Supervised, Unsupervised)
-- GitHub
-
----
-
 ### WORK EXPERIENCE
 
 **Data Analyst Intern**  
-*Vesta Electrocontrol, Chandigarh, IN*  
-*Jan 2021- Jun 2021*  
 
 - Gathered requirements from business leaders, clients, and team leaders.
 - Weekly data evaluations and eliminated data anomalies by 80% using Python.
@@ -87,3 +70,6 @@
 - [LeetCode](https://leetcode.com/bains12karman/)
 - [Instagram](https://www.instagram.com/bains_karman)
 - [Resume](https://lnkd.in/epWGwiqp)
+
+## Profile Views
+![](https://komarev.com/ghpvc/?username=bainskarman&color=dc143c)
