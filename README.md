@@ -79,3 +79,11 @@ Awards: Dean’s Honour List 2023
 ### PROFILE STATS
 
 ![Karman's GitHub Stats](https://github-readme-stats.vercel.app/api?username=bainskarman&show_icons=true&count_private=true&hide=prs&theme=radical)
+
+### LINKS
+
+- [LinkedIn](https://www.linkedin.com/bainskarman)
+- [GitHub Projects](https://github.com/bainskarman/projects)
+- [LeetCode](https://leetcode.com/bains12karman/)
+- [Instagram](https://www.instagram.com/bains_karman)
+- [Resume](https://lnkd.in/epWGwiqp)
