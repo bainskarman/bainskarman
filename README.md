@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Karman Singh</h1>
 <h3 align="center">Artificial Intelligence and Machine Learning Enthusiast</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bainskarman" alt="bainskarman" /></a> </p>
-
 - 🌱 I’m currently learning **Artificial Intelligence Engineering**
 
 - 💬 Ask me about **Data Science**
