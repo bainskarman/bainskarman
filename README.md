@@ -72,7 +72,7 @@ Awards: Dean’s Honour List 2023
 
 ### PUBLICATIONS
 
-*Bains, K. S., et al. (2023). Alzheimer's diagnostic with OASIS, STEM Fellowship Journal, p. 5, para. 2.*
+*Bains, K. S., et al. (2023). [Alzheimer's diagnostic with OASIS](https://journal.stemfellowship.org/doi/pdf/10.17975/sfj-2023-007), STEM Fellowship Journal, p. 5, para. 2.*
 
 ---
 
