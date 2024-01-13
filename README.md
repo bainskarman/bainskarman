@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Artificial Intelligence Engineering**
 
-- 💬 Ask me about **Data Science**
+- 💬 Ask me about **Data Analytics / Data Science / ML**
 
 - 📫 How to reach me **bsinghkarman@gmail.com**
 
