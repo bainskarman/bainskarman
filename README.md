@@ -40,7 +40,6 @@
 - [GitHub Projects](https://github.com/bainskarman/projects)
 - [LeetCode](https://leetcode.com/bains12karman/)
 - [Instagram](https://www.instagram.com/bains_karman)
-- [Resume](https://lnkd.in/epWGwiqp)
 
 ## Profile Views
 ![](https://komarev.com/ghpvc/?username=bainskarman&color=dc143c)
