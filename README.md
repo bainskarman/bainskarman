@@ -7,7 +7,6 @@
 
 - 📫 How to reach me **bsinghkarman@gmail.com**
 
-- 📄 Know about my experiences [https://lnkd.in/epWGwiqp](https://lnkd.in/epWGwiqp)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
